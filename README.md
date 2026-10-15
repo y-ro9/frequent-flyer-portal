@@ -1,7 +1,6 @@
 # End-to-End Frequent Flyer Portal
 
-> **Ticket:** ENG-163087 · **Epic:** Core Infrastructure Overhaul · **Priority:** P1
-> **Owner:** Yash Raj (PDIT-INT-1247) · **Reporter:** Amit Sharma
+> **Owner:** Yash Raj  **Reporter:** Amit Sharma
 
 A production-ready frequent flyer management portal built to replace
 manual paper + Excel workflows for airline floor staff. Designed for
